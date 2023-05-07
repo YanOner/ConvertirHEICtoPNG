@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="im4java" type="repository">
+    <properties maven-id="org.im4java:im4java:1.4.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/im4java-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/im4java-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
